@@ -1,0 +1,7 @@
+ghostscript
+tesseract-ocr
+tesseract-ocr-spa
+qpdf
+pngquant
+jbig2enc
+unpaper
