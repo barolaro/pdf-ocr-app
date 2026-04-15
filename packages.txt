@@ -1,7 +1,8 @@
-ghostscript
 tesseract-ocr
 tesseract-ocr-spa
+ghostscript
 qpdf
 pngquant
 jbig2enc
 unpaper
+fonts-noto-core
